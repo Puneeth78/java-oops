@@ -1,3 +1,4 @@
+
 class Animal {
 
     void eat() {
@@ -11,8 +12,6 @@ class Dog extends Animal {
         System.out.println("Dog is barking");
     }
 }
-
-
 
 public class Main1 {
 

@@ -14,7 +14,7 @@ class Students extends Teacher {
 
 class children extends Students{
     void write(){
-        System.out.print("children copy the home work");
+        System.out.println("children copy the home work");
     }
 }
 
